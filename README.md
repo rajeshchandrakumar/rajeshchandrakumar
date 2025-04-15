@@ -9,7 +9,7 @@ Computer Science Student
 - 💞️ I’m looking to collaborate on ML/AI
 
 ### 📫 How to reach me:
-<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rajesh-c33)
+<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rajesh-c33) [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:rajeshrajesh91648@gmail.com)
 
 
 
