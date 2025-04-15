@@ -7,7 +7,9 @@ Computer Science Student
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on ML/AI
 - 📫 How to reach me :
-<br />https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+<br /> [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-
+badge&logo=gmail&logoColor=white" />](mailto:rajeshrajesh91648@gmail.com) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-
+badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rajesh-c33)
 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
